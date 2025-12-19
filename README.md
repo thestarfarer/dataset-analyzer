@@ -46,6 +46,10 @@ All stats printed to stdout. Redirect to file:
 python -m dataset_analyzer.run_all -i data.txt > analysis.md
 ```
 
+## Used for
+
+- [Ministral-3-14B-writer](https://huggingface.co/thestarfarer/Ministral-3-14B-writer)
+
 ## Requirements
 
 ```
